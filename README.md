@@ -1,2 +1,2 @@
 # calculater
-#oasisinfobyte #webdevlopment oasis level 2 task 1
+simple calculater using html 
